@@ -3,7 +3,11 @@
   "description": "PGWireless PHP Context",
   "license": "BSD-3-Clause",
   "type": "library",
-  "homepage": "https://github.com/PGWireless/php-context",
+  "support": {
+    "issues": "https://github.com/PGWireless/context/issues?state=open",
+    "wiki": "https://github.com/PGWireless/context/wiki",
+    "source": "https://github.com/PGWireless/context"
+  },
   "require": {
     "php": ">=7.0"
   },
@@ -11,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "PG\\Context\\": "src/"
+      "PG\\Context\\": "src"
     }
   },
   "minimum-stability": "dev",
