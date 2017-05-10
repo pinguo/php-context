@@ -9,9 +9,14 @@
     "source": "https://github.com/PGWireless/context"
   },
   "require": {
-    "php": ">=7.0"
+    "php": ">=7.0",
+    "PGWireless/php-log": "dev-master"
   },
   "repositories": {
+    "php-log": {
+      "type": "vcs",
+      "url": "http://182.150.28.13:3000/PGWireless/php-log.git"
+    }
   },
   "autoload": {
     "psr-4": {
