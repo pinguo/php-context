@@ -5,7 +5,7 @@
   "type": "library",
   "homepage": "https://github.com/PGWireless/php-context",
   "require": {
-    "php": ">=7.0",
+    "php": ">=7.0"
   },
   "repositories": {
   },
