@@ -13,7 +13,7 @@
     "PGWireless/php-log": "dev-master"
   },
   "repositories": {
-    "php-log": {
+    "PGWireless/php-log": {
       "type": "vcs",
       "url": "http://182.150.28.13:3000/PGWireless/php-log.git"
     }
