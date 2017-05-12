@@ -15,7 +15,7 @@
   "repositories": {
     "PGWireless/php-log": {
       "type": "vcs",
-      "url": "http://182.150.28.13:3000/PGWireless/php-log.git"
+      "url": "https://github.com/PGWireless/php-log.git"
     }
   },
   "autoload": {
