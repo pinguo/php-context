@@ -56,7 +56,7 @@ abstract class AbstractContext implements \ArrayAccess
      */
     public function getLog()
     {
-        return $this->PGLog ?? null;
+        return $this->PGLog;
     }
 
 
@@ -79,7 +79,7 @@ abstract class AbstractContext implements \ArrayAccess
      */
     public function getLogId()
     {
-        return $this->logId ?? null;
+        return $this->logId;
     }
 
     /**
@@ -117,5 +117,5 @@ abstract class AbstractContext implements \ArrayAccess
         return isset($this->{$offset}) ? $this->{$offset} : null;
     }
 
-    public abstract function destroy();
+    abstract public function destroy();
 }
