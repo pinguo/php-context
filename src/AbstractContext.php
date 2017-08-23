@@ -1,9 +1,9 @@
 <?php
 /**
- * @desc: 处理请求的上下文接口
- * @author: xudianyang <xudianyang@camera360.com>
- * @date: 2017/5/10
- * @copyright All rights reserved.
+ * 处理请求的上下文接口
+ *
+ * @author camera360_server@camera360.com
+ * @copyright Chengdu pinguo Technology Co.,Ltd.
  */
 
 namespace PG\Context;
