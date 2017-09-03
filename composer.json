@@ -1,21 +1,21 @@
 {
-  "name": "PGWireless/php-context",
-  "description": "PGWireless PHP Context",
+  "name": "pinguo/php-context",
+  "description": "pinguo PHP Context",
   "license": "BSD-3-Clause",
   "type": "library",
   "support": {
-    "issues": "https://github.com/PGWireless/context/issues?state=open",
-    "wiki": "https://github.com/PGWireless/context/wiki",
-    "source": "https://github.com/PGWireless/context"
+    "issues": "https://github.com/pinguo/context/issues?state=open",
+    "wiki": "https://github.com/pinguo/context/wiki",
+    "source": "https://github.com/pinguo/context"
   },
   "require": {
     "php": ">=7.0",
-    "PGWireless/php-log": "dev-master"
+    "pinguo/php-log": "dev-master"
   },
   "repositories": {
-    "PGWireless/php-log": {
+    "pinguo/php-log": {
       "type": "vcs",
-      "url": "https://github.com/PGWireless/php-log.git"
+      "url": "https://github.com/pinguo/php-log.git"
     }
   },
   "autoload": {

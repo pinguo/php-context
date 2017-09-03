@@ -1,4 +1,4 @@
-# PGWireless PHP Context
+# pinguo PHP Context
 
 品果微服务上下文库，为php-msf微服务提供保持请求上下文功能
 
