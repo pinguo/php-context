@@ -1,7 +1,7 @@
 {
   "name": "pinguo/php-context",
   "description": "pinguo PHP Context",
-  "license": "BSD-3-Clause",
+  "license": "GPL",
   "type": "library",
   "support": {
     "issues": "https://github.com/pinguo/context/issues?state=open",
