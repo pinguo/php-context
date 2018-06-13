@@ -10,7 +10,7 @@
   },
   "require": {
     "php": ">=7.0",
-    "pinguo/php-log": "1.0.1"
+    "pinguo/php-log": ">=1.0.2"
   },
   "autoload": {
     "psr-4": {
